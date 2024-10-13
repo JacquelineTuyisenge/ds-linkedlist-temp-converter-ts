@@ -45,6 +45,10 @@ class TempConverter extends Component<{}, TempConverterState> {
         return (
             <div>
                 <h1>Temperature Converter</h1>
+                <div className="instructions">
+                    <p>Convert temperatures between Celsius and Fahrenheit.</p>
+                    <p>Enter a value in either field, and the other will update automatically!</p>
+                </div>
                 <div className ="temp">
                     <label>Celcius: </label>
                     <input
