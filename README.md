@@ -10,5 +10,4 @@ Temperature Converter
 **Task**: Implement a class-based React component in TypeScript that converts temperatures between Fahrenheit and Celsius.
 *Focus*: Class components in React, TypeScript classes, and handling of state and props.
 
-### screenshot
 
